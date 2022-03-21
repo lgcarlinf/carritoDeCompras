@@ -3,7 +3,7 @@
 ## Carrito de compras con locastorage CRUD con Firebase
 Deploy en Netlify      
 
-##Hecho con:
+## Hecho con:
 HTML CSS JS FIREBASE
 
 -Link:  
